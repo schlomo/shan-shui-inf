@@ -1,3 +1,9 @@
+# Shan Shui Infinite Scroller Full Screen
+
+I forked the original and hacked it up to just display full screen and scroll forever every 30 seconds.
+
+The following is the original README
+
 # {Shan, Shui}*
 Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser.
 Generate your own on https://lingdong-.github.io/shan-shui-inf/ (or [Alternative link](https://shan-shui-inf.glitch.me)).
