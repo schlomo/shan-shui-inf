@@ -1,6 +1,8 @@
-# Shan Shui Infinite Scroller Full Screen
+# Shan Shui Infinite Scroll Full Screen
 
 I forked the original and hacked it up to just display full screen and scroll forever every 30 seconds.
+
+Simply head over to <https://schlomo.github.io/shan-shui-inf/> to enjoy the full screen infinite shan shui scroll.
 
 The following is the original README
 
